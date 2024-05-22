@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.can-cv {
+  background-color: white;
+  max-width: 400px;
+  flex-grow: 1;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(56, 56, 56, 0.1);
+}
+
+.can-header {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.can-name-loc {
+  margin: auto 0;
+}
+
+.can-avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.can-location {
+  font-size: 16px;
+  color: #8c8c8c;
+  margin: 5px 0;
+}
+
+.can-shortBio {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.can-edu-exp {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 40px;
+}
+
+.can-edu-exp p {
+  font-size: 16px;
+  color: #8c8c8c;
+}

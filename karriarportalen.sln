@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karriarportalen.Server", "karriarportalen.Server\karriarportalen.Server.csproj", "{E9478E9A-A23A-4334-B9DA-51758A9E3B67}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "karriarportalen.client", "karriarportalen.client\karriarportalen.client.esproj", "{9A097DEB-43E1-4CA6-B0F0-EB132DEE52F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9478E9A-A23A-4334-B9DA-51758A9E3B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9478E9A-A23A-4334-B9DA-51758A9E3B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9478E9A-A23A-4334-B9DA-51758A9E3B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9478E9A-A23A-4334-B9DA-51758A9E3B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A097DEB-43E1-4CA6-B0F0-EB132DEE52F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A097DEB-43E1-4CA6-B0F0-EB132DEE52F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A097DEB-43E1-4CA6-B0F0-EB132DEE52F9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9A097DEB-43E1-4CA6-B0F0-EB132DEE52F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A097DEB-43E1-4CA6-B0F0-EB132DEE52F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A097DEB-43E1-4CA6-B0F0-EB132DEE52F9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26EAB346-8E7A-47D0-903D-F525C7B27024}
+	EndGlobalSection
+EndGlobal

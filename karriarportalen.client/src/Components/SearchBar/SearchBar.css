@@ -1,0 +1,17 @@
+.div-search {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+}
+
+.btn-search {
+  padding: 5px;
+  margin-left: 20px;
+}

@@ -1,0 +1,16 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+}
+
+.toggle-on {
+  color: #383838;
+}
+
+.toggle-off {
+  color: #cacaca;
+}
+
+.btn-login {
+  width: 100%;
+}

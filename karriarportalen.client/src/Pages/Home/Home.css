@@ -1,0 +1,17 @@
+.home-page-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+
+.btn-get-started {
+  margin-top: 10px;
+  border: none;
+  color: white;
+  padding: 6px 30px;
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: 300;
+}

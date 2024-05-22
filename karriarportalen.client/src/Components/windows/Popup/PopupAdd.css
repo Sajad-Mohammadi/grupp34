@@ -1,0 +1,50 @@
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popup-outer {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.popup-inner {
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.form-add {
+  width: 100%;
+}
+
+.form-add label {
+  font-size: 16px;
+  margin: 5px 0;
+  float: left;
+}
+
+.form-add input {
+  width: 100%;
+  height: 30px;
+  margin: 5px 0;
+  padding: 5px;
+  box-sizing: border-box;
+  border: 1px solid #8c8c8c;
+  color: #8c8c8c;
+  border-radius: 5px;
+}

@@ -1,0 +1,75 @@
+.Info {
+    text-align: center;
+}
+.btn {
+    display: block;
+    margin: auto;
+    width: 100%;
+    padding: 14px 28px;
+    cursor:pointer;
+    
+}
+
+.Experience {
+    text-align: center;
+}
+.btn1 {
+    display:block;
+    margin: auto;
+    width: 100%;
+    padding:14px 28px;
+}
+
+.Location{
+    text-align:center;
+}
+.btn2{
+    display: block;
+    margin: auto;
+    width:100%;
+    padding: 14px 28px;
+}
+
+.Skills {
+    text-align: center;
+}
+.btn3 {
+    display: block;
+    margin: auto;
+    width: 100%;
+    padding: 14px 28px;
+}
+
+
+.Category {
+    text-align: center;
+}
+
+.btn4 {
+    display: block;
+    margin: auto;
+    width: 100%;
+    padding: 14px 28px;
+}
+
+
+.Description {
+    text-align: center;
+}
+.btn5 {
+    display: block;
+    margin: auto;
+    width: 100%;
+    padding: 14px 28px;
+}
+
+
+.References {
+    text-align: center;
+}
+.btn6 {
+    display: block;
+    margin: auto;
+    width: 100%;
+    padding: 14px 28px;
+}
